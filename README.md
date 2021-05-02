@@ -1,0 +1,84 @@
+<!DOCTYPE HTML>
+<!--
+	Striped by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>E-portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main2.css" />
+	</head>
+	<body class="is-preload">
+
+
+				<!-- Content -->
+				<div id="content">
+					<div class="inner">
+
+						<!-- Post -->
+						<article class="box post post-excerpt">
+							<header>
+								<!--
+									Note: Titles and subtitles will wrap automatically when necessary, so don't worry
+									if they get too long. You can also remove the <p> entirely if you don't
+									need a subtitle.
+								-->
+								<h2><a href="#">E-portfolio</a></h2>
+								<p>Dit is het E-portfolio van Roel Janssens</p>
+								<article>
+									<p>
+										Ik ben Roel Janssens.
+									</p>
+									<p>
+										Ik studeer Toegepaste Informatica aan de UC Leuven-Limburg in Leuven.
+									</p>
+									<p>
+										Als je meer over mij te weten wil komen bekijk dan het onderstaand filmpje!
+									</p>
+									<video width="320" height="240" controls>
+										<source src="Creatief-Filmpje.mp4" type="video/mp4">
+									</video>
+								</article>
+							</header>
+						</article>
+					</div>
+
+				</div>
+
+				<!-- Sidebar -->
+				<div id="sidebar">
+
+					<!-- Logo -->
+					<h1 id="logo"><a href="#">E-portfolio</a></h1>
+
+					<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li class="current"><a href="index.html">Home</a></li>
+							<li><a href="CV.html">CV</a></li>
+							<li><a href="Competenties.html">Competenties</a></li>
+							<li><a href="Projecten.html">Projecten</a></li>
+							<li><a href="Contact.html">Contactpagina</a></li>
+						</ul>
+					</nav>
+					<!-- Copyright -->
+					<ul id="copyright">
+						<li>&copy; Roel Janssens.</li>
+					</ul>
+
+				</div>
+
+
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
